@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import { Route, Switch } from 'react-router-dom';
 import { Homepage } from './containers/Homepage';
 import { Navbar } from './components/layout/Navbar';
@@ -9,7 +8,7 @@ export const App = () => {
     <>
       <Navbar />
       <Switch>
-        <Route exact path="/morsols" component={Homepage} />
+        <Route exact path="/" component={Homepage} />
       </Switch>
     </>
   );

@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
 } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 import './styles/index.scss';
@@ -12,7 +12,7 @@ const history = createBrowserHistory();
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router history={history}>
+    <Router basename="/">
       <App />
     </Router>
   </React.StrictMode>,
