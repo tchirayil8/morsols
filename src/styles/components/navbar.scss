@@ -1,0 +1,19 @@
+.navbar {
+    &__top {
+        background-color: $morsol-yellow;
+        width: 100%;
+        height: 24px;
+    }
+
+    &__middle {
+        width: 100%;
+        height: 84px;
+        background-color: $morsol-dark-green;
+    }
+
+    &__bottom {
+        background-color: $morsol-yellow;
+        width: 100%;
+        height: 12px;
+    }
+}
