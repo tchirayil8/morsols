@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e69b578d82f4524fde553dcfd84e77a1",
+    "revision": "af041119d1835a8190ba7a3b0e38e693",
     "url": "/morsols/index.html"
   },
   {
-    "revision": "1b66f0d892940014a4b2",
-    "url": "/morsols/static/css/main.bd67fc20.chunk.css"
+    "revision": "ac7580032a80bf51324f",
+    "url": "/morsols/static/css/main.2aa5a768.chunk.css"
   },
   {
     "revision": "38ea7617396de235548f",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/morsols/static/js/2.bfced9db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b66f0d892940014a4b2",
-    "url": "/morsols/static/js/main.c6db185e.chunk.js"
+    "revision": "ac7580032a80bf51324f",
+    "url": "/morsols/static/js/main.12a71c5f.chunk.js"
   },
   {
     "revision": "c466fba4dee9a9eb26ee",
     "url": "/morsols/static/js/runtime-main.3080082f.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/morsols/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/morsols/static/media/logo.ee7cd8ed.svg"
   }
 ]);
